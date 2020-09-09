@@ -1,0 +1,167 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    line-height: ;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+
+}
+
+h3 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+.pro-pic {
+    margin: 50px auto 25px;
+    width: 20%;
+
+}
+
+.comp-pic {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.sport-pic {
+    width: 25%;
+    float: right;
+}
+
+.top-container {
+    background-color: #ceecec;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.dotted-hr {
+    background-color: ;
+    border-style: dotted none none;
+    border-color: #EAF6F6;
+    border-width: 8px;
+    height: 0px;
+    margin: 100px auto 100px;
+    width: 5%;
+}
+
+.cloud-1 {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.cloud-2 {
+    position: absolute;
+    left: 300px;
+
+
+}
+
+.middle-container {
+    text-align: center;
+    margin: 100px 0;
+}
+
+.skill-row {
+    width: 50%;
+    position: relative;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+
+}
+
+
+
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+
+}
+
+.contact-me {
+    padding-bottom: 100px;
+
+
+}
+
+.contact-msg {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    box-shadow: inset 0px -3px 7px 0px #29bbff;
+    background: linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+    background-color: #2dabf9;
+    border-radius: 3px;
+    border: none;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 9px 30px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #263666;
+    margin-top: 30px;
+}
+
+.btn:hover {
+    background: linear-gradient(to bottom, #70bceb 5%, #70bceb 100%);
+    background-color: #0688fa;
+}
+
+.btn:active {
+    position: relative;
+    top: 1px;
+
+}
+
+.footer-link {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 30px;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.name-footer {
+    padding-top: 20px;
+    color: #eaf6f6;
+    font-size: .75rem;
+}
